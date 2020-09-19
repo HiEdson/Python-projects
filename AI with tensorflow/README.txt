@@ -1,0 +1,1 @@
+In this directory we find artificial intelligence algorithms for deep learning using tensorflow. These are the result of my study of the tensorflow framework for artificial intelligence with python
