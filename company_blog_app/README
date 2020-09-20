@@ -1,0 +1,5 @@
+Please consider installing the dependencies mentioned in the requirement.txt in a conda environment.
+
+To have an effective use of the applications with the appropriate packages, also consider running conda install python = 3.7
+
+you may encounter many problems using a python version higher than 3.7 because of some dependencies that are no longer supported. If you have a version greater than 3.7, update the requirement.txt file
